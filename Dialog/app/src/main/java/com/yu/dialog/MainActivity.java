@@ -67,6 +67,7 @@ public class MainActivity extends AppCompatActivity {
 
                         "你输入的手机号已经注册帐号,请输入其他未注册的手机号", "点击关闭",
                         null, true);
+                
             }
         });
     }
