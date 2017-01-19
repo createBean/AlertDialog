@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Dialog</string>
+    <string name="hint_msg_title">提示消息标题</string>
+    <string name="hint_msg_content">提示信息内容</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确定</string>
+    <string name="january">一月</string>
+    <string name="february">二月</string>
+    <string name="march">三月</string>
+    <string name="april">四月</string>
+    <string name="may">五月</string>
+    <string name="june">六月</string>
+    <string name="july">七月</string>
+    <string name="august">八月</string>
+    <string name="september">九月</string>
+    <string name="october">十月</string>
+    <string name="november">十一月</string>
+    <string name="december">十二月</string>
+    <string name="minute">%02d分</string>
+    <string name="day">%02d日</string>
+    <string name="_time">%02d时</string>
+    <string name="year">%s年</string>
 </resources>
